@@ -18,9 +18,10 @@ This project demonstrates real-time face detection using a webcam and the Haar C
    cd LiveFaceDetectionwithOpenCV
    
 2. Install the required libraries:
-```bash
+   ```bash
  pip install opencv-python
 
+
 3. Run the script:
-```bash
+   ```bash
    python main.py
